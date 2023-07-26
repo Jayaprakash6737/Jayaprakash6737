@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jayaprakash6737
-- 👀 I’m interested in MERN Stack
+- 👀 I’m interested in MERN, Frontend
 - 🌱 I’m currently learning
 - 📫 How to reach me jayaprakash6737@gmail.com
 
